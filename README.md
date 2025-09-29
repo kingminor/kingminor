@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kingminor
 - 👀 I’m interested in making code that has use for gaming.
-- 🌱 I’m currently learning Godot.
+- 🌱 I’m currently learning Godot & Elixir.
 - 💞️ I’m looking to make cool video games.
 - 📫 How to reach me, Email:kingminorofficial@yahoo.com or walker84354@yahoo.com
 
