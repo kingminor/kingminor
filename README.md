@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingminor
+- 👋 Hi, I’m @kingminor (call me masked king now)
 - 👀 I’m interested in making code that has use for gaming.
 - 🌱 I’m currently learning Godot & Elixir.
 - 💞️ I’m looking to make cool video games.
